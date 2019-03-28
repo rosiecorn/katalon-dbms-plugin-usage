@@ -1,0 +1,11 @@
+patient_id,updated_by,updated_when,version,date_of_birth,gender,medical_record_number,first_name,last_name,patient_linked,phone,address,guardian_name,guardian_address,guardian_phone,additional_props
+10020,intake,2019-03-15 15:45:56.743,0,2019-03-15,Male,null,QWER,QWER,N,,,,,,{"ssn4":null,"emergencyContactPhone":"","emergencyContactName":"","clinicalNotes":"","emergencyContactRelationship":""}
+10047,intake,2019-03-18 10:48:56.752,0,1990-03-20,Female,null,WEREW,WEREW,N,,,,,,{"ssn4":null,"emergencyContactPhone":"","emergencyContactName":"","clinicalNotes":"","emergencyContactRelationship":""}
+10266,intake,2019-03-19 08:00:31.775,0,1991-01-01,Female,null,HANG123,PHAN,N,,,,,,{"ssn4":null,"emergencyContactPhone":"","emergencyContactName":"","clinicalNotes":"","emergencyContactRelationship":""}
+10160,intake,2019-03-18 03:54:34.464,0,1990-01-01,Female,null,HANG1,PHAN,N,,,,,,{"ssn4":null,"emergencyContactPhone":"","emergencyContactName":"","clinicalNotes":"","emergencyContactRelationship":""}
+10124,intake,2019-03-19 08:17:36.856,0,1991-01-01,Female,null,HANG57,PHAN,N,,,,,,{"ssn4":null,"emergencyContactPhone":"","emergencyContactName":"","clinicalNotes":"","emergencyContactRelationship":""}
+10233,intake,2019-03-19 03:59:55.258,0,2000-03-18,Male,null,KMS TESTING,KMS TESTING,N,,,,,,{"ssn4":null,"emergencyContactPhone":"","emergencyContactName":"","clinicalNotes":"","emergencyContactRelationship":""}
+10219,intake,2019-03-19 04:05:58.296,0,2019-02-26,Female,null,NGUYEN2,TIEN ,N,,,,,,{"ssn4":null,"emergencyContactPhone":"","emergencyContactName":"","clinicalNotes":"","emergencyContactRelationship":""}
+10065,intake,2019-03-18 08:31:09.246,0,2019-03-04,Male,null,BUI,HANG,N,,,,,,{"ssn4":null,"emergencyContactPhone":"","emergencyContactName":"","clinicalNotes":"","emergencyContactRelationship":""}
+10108,intake,2019-03-18 08:31:47.466,2,2019-03-04,Male,null,BUI,HANG01,N,,,,,,{"ssn4":null,"emergencyContactPhone":"","emergencyContactName":"","clinicalNotes":"","emergencyContactRelationship":""}
+10260,intake,2019-03-19 04:23:14.82,0,1991-01-01,Female,null,HANG,PHAN15,N,,,,,,{"ssn4":null,"emergencyContactPhone":"","emergencyContactName":"","clinicalNotes":"","emergencyContactRelationship":""}

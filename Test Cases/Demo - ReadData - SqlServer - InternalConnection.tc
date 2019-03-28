@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Demo - ReadData - SqlServer - InternalConnection</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>018e9686-a324-49d2-b223-992379a3840d</testCaseGuid>
+</TestCaseEntity>
