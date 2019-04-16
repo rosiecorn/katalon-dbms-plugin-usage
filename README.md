@@ -1,8 +1,10 @@
 # katalon-dbms-keywords
 
 ## Prerequisites
-- Installed Katalon Studio
-- Prepare Database by provided sql scripts from "/katalon-dbms-keywords/Sql Scripts"
+- Installed latest Katalon Studio
+- Go to Katalon store and download dbms plugin follow instruction from the site
+- Prepare Database by provided sql scripts from "/katalon-dbms-keywords/Sql Scripts" to enable to running test cases inside the project
+
 
 ## Database Keywords
 ### Keywords:
